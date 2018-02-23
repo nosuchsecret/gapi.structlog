@@ -2,12 +2,12 @@ package server
 
 import (
 	//"time"
-	"github.com/nosuchsecret/gapi/userver"
-	"github.com/nosuchsecret/gapi/hserver"
-	"github.com/nosuchsecret/gapi/tserver"
-	"github.com/nosuchsecret/gapi/usocket"
-	"github.com/nosuchsecret/gapi/config"
-	"github.com/nosuchsecret/gapi/errors"
+	"github.com/nosuchsecret/gapi.structlog/userver"
+	"github.com/nosuchsecret/gapi.structlog/hserver"
+	"github.com/nosuchsecret/gapi.structlog/tserver"
+	"github.com/nosuchsecret/gapi.structlog/usocket"
+	"github.com/nosuchsecret/gapi.structlog/config"
+	"github.com/nosuchsecret/gapi.structlog/errors"
 	"github.com/nosuchsecret/logger"
 )
 

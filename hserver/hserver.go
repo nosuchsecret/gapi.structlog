@@ -7,10 +7,10 @@ import (
 	"net/http"
 	//"io/ioutil"
 	//"encoding/json"
-	"github.com/nosuchsecret/gapi/variable"
+	"github.com/nosuchsecret/gapi.structlog/variable"
 	"github.com/nosuchsecret/logger"
-	"github.com/nosuchsecret/gapi/errors"
-	"github.com/nosuchsecret/gapi/router"
+	"github.com/nosuchsecret/gapi.structlog/errors"
+	"github.com/nosuchsecret/gapi.structlog/router"
 )
 
 // HttpServer http server

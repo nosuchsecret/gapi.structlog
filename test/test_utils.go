@@ -7,7 +7,6 @@ import (
 	//"io/ioutil"
 	//"path/filepath"
 	"net/http/httptest"
-	//"github.com/nosuchsecret/gapi/log"
 )
 // TLog test for log
 type TLog struct {

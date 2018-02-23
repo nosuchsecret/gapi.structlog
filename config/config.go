@@ -6,8 +6,8 @@ import (
 	//"time"
 	"path/filepath"
 	goconf "github.com/msbranco/goconfig"
-	"github.com/nosuchsecret/gapi/errors"
-	"github.com/nosuchsecret/gapi/variable"
+	"github.com/nosuchsecret/gapi.structlog/errors"
+	"github.com/nosuchsecret/gapi.structlog/variable"
 )
 
 // Config of server
